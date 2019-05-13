@@ -1,5 +1,5 @@
 # PyTextWorldAdventure
 
-Step 1 - Download code.py
-Step 2 - Run with python ide
+Step 1 - Download TestWorldAdventure.py
+Step 2 - Run with Python IDE (Wing 101)
 Step 3 - 
