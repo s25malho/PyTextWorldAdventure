@@ -8,4 +8,4 @@ Step 3 - Download the text file from root directory and use load function to gai
 
 Step 4 - Use play function to play the text game
 
-step 5 - Save at any point using save function 
+Step 5 - Save at any point using save function 
